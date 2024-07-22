@@ -1,0 +1,21 @@
+{
+  "name": "wallot-invest",
+  "version": "1.0.0",
+  "author": "Guilherme Farias",
+  "description": "An investment analysis and evaluation project. wallot-invest uses web scraping techniques to collect statistical data from various websites, enabling automated assessments and the option to create questions for manual analysis.",
+  "license": "MIT",
+  "homepage": "https://github.com/Guilherme-Farias/wallot-invest#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guilherme-Farias/wallot-invest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Guilherme-Farias/wallot-invest/issues"
+  },
+  "keywords": [
+    "typescript",
+    "investment",
+    "web",
+    "scraping"
+  ]
+}
