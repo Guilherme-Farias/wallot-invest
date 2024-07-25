@@ -29,3 +29,6 @@ jobs:
 
       - name: 🔍 Typechecking
         run: npm run typecheck
+
+      - name: 🧪 Testing
+        run: npm run test
